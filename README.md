@@ -9,9 +9,8 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/bunyodbek-jurayev-68a7b2229"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:jorayevbunyodbek1505@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
 ---
@@ -20,10 +19,9 @@
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 
 ### Styling
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -60,32 +58,29 @@
 
 ## 🚀 Featured Projects
 
-### 🌐 [Portfolio Website](https://github.com/Bunyodbek1505/portfolio)
-Modern and responsive personal portfolio built with **Next.js**, **TypeScript**, and **Tailwind CSS**
-- ⚡ Fast and optimized
-- 🎨 Beautiful animations
-- 📱 Fully responsive
-
-### 🛒 [E-commerce Platform](https://github.com/Bunyodbek1505/ecommerce)
-Full-featured online shopping platform with admin dashboard
-- 🔐 Authentication & Authorization
-- 💳 Payment integration
-- 📊 Admin analytics
-
 ### 📝 [Task Management App](https://github.com/Bunyodbek1505/task-manager)
-Trello-like task management application
+Coming soon... Building a Trello-like task management application
 - 🎯 Drag & Drop functionality
 - 🔄 Real-time updates
 - 📅 Due dates & priorities
 
+### 🌐 Portfolio Website
+Coming soon... Modern and responsive personal portfolio
+- ⚡ Built with Next.js & TypeScript
+- 🎨 Beautiful animations
+- 📱 Fully responsive
+
 ---
 
-## 💼 Professional Experience
+## 💼 About Me
 
-**Frontend Developer** | *Company Name* | 2023 - Present
-- Developed and maintained web applications using React and TypeScript
-- Collaborated with cross-functional teams to deliver high-quality products
-- Improved application performance by 40% through optimization techniques
+Frontend Developer passionate about building modern, scalable web applications. I love working with React ecosystem and continuously learning new technologies to deliver better user experiences.
+
+🌱 Currently focusing on:
+- Advanced React patterns
+- TypeScript best practices
+- Performance optimization
+- Accessible web design
 
 ---
 
@@ -96,9 +91,8 @@ Trello-like task management application
 </p>
 
 <p align="center">
-  📧 Email: <a href="mailto:your.email@example.com">your.email@example.com</a><br>
-  💼 LinkedIn: <a href="https://linkedin.com/in/yourprofile">yourprofile</a><br>
-  🌐 Portfolio: <a href="https://your-portfolio.com">your-portfolio.com</a>
+  📧 Email: <a href="mailto:jorayevbunyodbek1505@gmail.com">jorayevbunyodbek1505@gmail.com</a><br>
+  💼 LinkedIn: <a href="https://www.linkedin.com/in/bunyodbek-jurayev-68a7b2229">Bunyodbek Jurayev</a>
 </p>
 
 ---
