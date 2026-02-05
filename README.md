@@ -1,106 +1,167 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B+I'm+Bunyodbek;Frontend+Developer;React+%7C+TypeScript+%7C+Next.js" alt="Typing SVG" />
-</div>
+# Bunyodbek Jurayev
 
-<h3 align="center">🚀 Frontend Developer from Uzbekistan 🇺🇿</h3>
+**Frontend Developer** | Uzbekistan 🇺🇿
 
-<p align="center">
-  Passionate about creating beautiful, performant, and user-friendly web applications
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/bunyodbek-jurayev-68a7b2229"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:jorayevbunyodbek1505@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-</p>
+Building modern, scalable, and user-friendly web applications with React and TypeScript.
 
 ---
 
-## 🛠️ Tech Stack
+## Contact
 
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bunyodbek-jurayev-68a7b2229)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:jorayevbunyodbek1505@gmail.com)
 
-### Styling
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+---
+
+## About Me
+
+Frontend Developer with experience in building responsive web applications using modern JavaScript frameworks. I specialize in React ecosystem and focus on writing clean, maintainable code while creating excellent user experiences.
+
+**Currently focusing on:**
+- Advanced React patterns and performance optimization
+- TypeScript best practices and type safety
+- Building reusable component libraries
+- Responsive and accessible web design
+
+---
+
+## Technical Skills
+
+### Frontend Development
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+
+### Styling & UI
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![Styled Components](https://img.shields.io/badge/Styled_Components-DB7093?style=flat&logo=styled-components&logoColor=white)
 
 ### State Management & Data Fetching
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white)
-![Zustand](https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logo=react&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white)
+![React Query](https://img.shields.io/badge/React_Query-FF4154?style=flat&logo=react-query&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-000000?style=flat&logo=react&logoColor=white)
 
-### Tools & Others
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
-![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+### Tools & Workflow
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
+![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=flat&logo=webpack&logoColor=black)
+![npm](https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
 ---
 
-## 📊 GitHub Statistics
+## GitHub Statistics
+
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=Bunyodbek1505&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bunyodbek1505&layout=compact&theme=default&hide_border=true&langs_count=8" alt="Top Languages" height="165"/>
+</div>
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Bunyodbek1505&theme=default&hide_border=true)
+
+---
+
+## Featured Projects
+
+### Task Management Application
+A productivity tool inspired by Trello with drag-and-drop functionality, real-time updates, and task prioritization.
+
+**Tech Stack:** React, TypeScript, Zustand, DnD Kit, Tailwind CSS  
+**Status:** In Development
+
+**Key Features:**
+- Drag and drop tasks between columns
+- Priority levels and due dates
+- Search and filter functionality
+- Dark/Light theme support
+- Local storage persistence
+
+---
+
+### Portfolio Website
+Personal portfolio website showcasing projects, skills, and professional experience with modern animations and responsive design.
+
+**Tech Stack:** Next.js, TypeScript, Tailwind CSS, Framer Motion  
+**Status:** Planning
+
+**Key Features:**
+- Server-side rendering with Next.js
+- Optimized performance and SEO
+- Blog section with MDX
+- Contact form integration
+- Smooth animations
+
+---
+
+### E-commerce Dashboard
+Admin dashboard for managing products, orders, and analytics with interactive charts and data visualization.
+
+**Tech Stack:** React, TypeScript, Redux Toolkit, Chart.js  
+**Status:** Upcoming
+
+**Key Features:**
+- Product and inventory management
+- Order tracking and processing
+- Sales analytics and reporting
+- Responsive data tables
+- Export functionality
+
+---
+
+## Professional Experience
+
+**Frontend Developer**  
+*Previous Experience*
+
+- Developed and maintained web applications using React and TypeScript
+- Collaborated with cross-functional teams to deliver high-quality products
+- Implemented responsive designs and ensured cross-browser compatibility
+- Optimized application performance and user experience
+- Participated in code reviews and maintained coding standards
+
+---
+
+## Education & Continuous Learning
+
+**Self-Taught Developer**  
+Continuously learning through online courses, documentation, and hands-on projects.
+
+**Current Learning Path:**
+- Advanced TypeScript patterns
+- Testing with Jest and React Testing Library
+- CI/CD and DevOps practices
+- Web performance optimization
+- Accessibility standards (WCAG)
+
+---
+
+## Professional Interests
+
+- **Code Quality:** Writing clean, maintainable, and well-documented code
+- **Performance:** Optimizing bundle sizes and runtime performance
+- **User Experience:** Creating intuitive and accessible interfaces
+- **Modern Tools:** Staying updated with latest frontend technologies
+- **Collaboration:** Working in agile teams and contributing to open source
+
+---
+
+## Get in Touch
+
+I'm currently open to new opportunities and collaborations. Feel free to reach out if you'd like to discuss frontend development, potential projects, or just connect!
+
+**Email:** [jorayevbunyodbek1505@gmail.com](mailto:jorayevbunyodbek1505@gmail.com)  
+**LinkedIn:** [linkedin.com/in/bunyodbek-jurayev-68a7b2229](https://www.linkedin.com/in/bunyodbek-jurayev-68a7b2229)  
+**GitHub:** [@Bunyodbek1505](https://github.com/Bunyodbek1505)
+
+---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bunyodbek1505&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bunyodbek1505&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170"/>
+  <img src="https://komarev.com/ghpvc/?username=Bunyodbek1505&color=blue&style=flat" alt="Profile Views"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bunyodbek1505&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</div>
-
----
-
-## 🚀 Featured Projects
-
-### 📝 [Task Management App](https://github.com/Bunyodbek1505/task-manager)
-Coming soon... Building a Trello-like task management application
-- 🎯 Drag & Drop functionality
-- 🔄 Real-time updates
-- 📅 Due dates & priorities
-
-### 🌐 Portfolio Website
-Coming soon... Modern and responsive personal portfolio
-- ⚡ Built with Next.js & TypeScript
-- 🎨 Beautiful animations
-- 📱 Fully responsive
-
----
-
-## 💼 About Me
-
-Frontend Developer passionate about building modern, scalable web applications. I love working with React ecosystem and continuously learning new technologies to deliver better user experiences.
-
-🌱 Currently focusing on:
-- Advanced React patterns
-- TypeScript best practices
-- Performance optimization
-- Accessible web design
-
----
-
-## 📫 Get In Touch
-
-<p align="center">
-  💌 Feel free to reach out for collaborations or just a friendly chat!
-</p>
-
-<p align="center">
-  📧 Email: <a href="mailto:jorayevbunyodbek1505@gmail.com">jorayevbunyodbek1505@gmail.com</a><br>
-  💼 LinkedIn: <a href="https://www.linkedin.com/in/bunyodbek-jurayev-68a7b2229">Bunyodbek Jurayev</a>
-</p>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Bunyodbek1505&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views"/>
-</div>
-
-<div align="center">
-  <i>⭐️ From <a href="https://github.com/Bunyodbek1505">Bunyodbek</a></i>
+  <sub>Last updated: February 2026</sub>
 </div>
