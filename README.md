@@ -1,6 +1,6 @@
 # Bunyodbek Jurayev
 
-**Frontend Developer** | Uzbekistan 🇺🇿
+**React / Node developer**
 
 Building modern, scalable, and user-friendly web applications with React and TypeScript.
 
