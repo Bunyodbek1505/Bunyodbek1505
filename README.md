@@ -1,4 +1,4 @@
-# Bunyodbek Jurayev
+# Bunyodbek Jo'rayev
 
 **React / Node developer**
 
